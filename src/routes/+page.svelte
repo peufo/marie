@@ -12,7 +12,7 @@
   })
 </script>
 
-<h1 class="text-6xl text-center p-4">La cuisine est terminé</h1>
+<h1 class="text-6xl text-center p-4">La cuisine est terminée</h1>
 <h2 class="text-xl text-center">( presque )</h2>
 
 <section class="my-8 relative">
